@@ -1,6 +1,6 @@
  📊 Telco Customer Churn Prediction
 
- Project Overview
+ Overview
 
 Customer churn is a major challenge for telecommunications companies. When customers leave, the company loses future revenue and needs to spend additional money to acquire new customers.
 
@@ -56,25 +56,4 @@ The dataset contains approximately **7,043 customer records and 21 columns**.
 - Scikit-learn
 - Logistic Regression
 
- Project Workflow
-Dataset
-   ↓
-Data Understanding
-   ↓
-Data Cleaning
-   ↓
-Exploratory Data Analysis
-   ↓
-Feature Preparation
-   ↓
-Train-Test Split
-   ↓
-Feature Scaling
-   ↓
-Logistic Regression
-   ↓
-Churn Probability Prediction
-   ↓
-Model Evaluation
-   ↓
-Business Analysis
+
